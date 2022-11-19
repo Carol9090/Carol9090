@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Carolina Leal Da Silva</h1>
+<h1>Carolina Leal</h1>
 
 
 **Carol9090/Carol9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
